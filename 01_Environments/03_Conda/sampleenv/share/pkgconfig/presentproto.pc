@@ -1,0 +1,7 @@
+prefix=/home/kishorear/Learning/GenAi/Python/01_Environments/03_Conda/sampleenv
+includedir=${prefix}/include
+ 
+Name: PresentProto
+Description: Present extension headers
+Version: 1.4
+Cflags: -I${includedir}

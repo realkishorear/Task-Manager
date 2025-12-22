@@ -1,0 +1,7 @@
+prefix=/home/kishorear/Learning/GenAi/Python/01_Environments/03_Conda/sampleenv
+includedir=${prefix}/include
+
+Name: VideoProto
+Description: Video extension headers
+Version: 2.3.3
+Cflags: -I${includedir}

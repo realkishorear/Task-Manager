@@ -1,0 +1,7 @@
+prefix=/home/kishorear/Learning/GenAi/Python/01_Environments/03_Conda/sampleenv
+includedir=${prefix}/include
+ 
+Name: DRI2Proto
+Description: DRI2 extension headers
+Version: 2.8
+Cflags: -I${includedir}
