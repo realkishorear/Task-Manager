@@ -1,7 +1,0 @@
-prefix=/home/kishorear/Learning/GenAi/Python/01_Environments/03_Conda/sampleenv
-includedir=${prefix}/include
-
-Name: CompositeExt
-Description: Composite extension headers
-Version: 0.4.2
-Cflags: -I${includedir}

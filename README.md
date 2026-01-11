@@ -1,42 +1,32 @@
-Python programming : Basic to Advanced
+# Task Manager
 
-NLP in Deep learning : 
-1. RNN
-2. LSTM RNN
-3. GRU RNN
-4. Bidirectional RNN
-5. Encoder Decoder
-6. Attention Mechanism
-7. Transformers + BERT
+## Features
 
-LangChain ecosystem : Generative AI Framework
-- Langchain core
-- Langchain community
-- Langchain tools
-
-Deployment techniques
-
-Fine-tuning techniques : Open source models
-- Quanitization
-- LoRA
-- QLoRA 
-  
-GenAI in AWS : 
-- AWS Bedrock (opensource models which are hosted)
-- Lambda functions
-- API Gateway
-- AWS Sagemaker
-
-NVDIA Nim :
-- Deploying models using Nim
-
-CrewAI :
-- Multi AI Agents
-
-LLM and Mulitmodal :
-- OpenAI : GPT-4o, GPT-4 Turbo, OpenAI Embeddings
-- Google : Gemma and Gemma 2
-- Meta : Llama3, Codelama
-- Anthropic : Mistralu
-- HuggingFace models
-- Groq AI Infrastructure (LPU Engine & How it is better than GPU)
+-  Authentication & Authorization
+	- Login
+		- Email & Password
+		- Google Auth
+		- Microsoft Auth
+		- Forget password
+			-  OTP Verification
+		- Reset password
+	- Sign up
+		- Create account
+		- Delete account
+		- Change password
+		- Welcome email
+- Main page
+	- Starter
+		- Add organization
+		- Join organization (with code)
+			-  Create Team
+			-  Join Team (with code)
+				- Project 1 (invite by Team lead) = Notification + Email
+					- Sprint (Current tasks + Assigned to)
+					- Backlog (All tasks)
+				- Project 2 (invite by Team lead) = Notification + Email
+	- Home page
+		- List all teams
+			- List all projects
+				- List all tasks
+	- Profile Settings
