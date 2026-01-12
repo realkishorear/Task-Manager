@@ -30,3 +30,12 @@
 			- List all projects
 				- List all tasks
 	- Profile Settings
+  
+  ## Stack
+
+  - Python (FastAPI)
+  - JWT + Explore other methods
+  - PostgreSQL (Raw queries + Indexing)
+  - Docker
+  - AWS (EC2 + S3 Buckets)
+  - Testing scripts 
